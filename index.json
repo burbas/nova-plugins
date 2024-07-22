@@ -1,0 +1,11 @@
+{
+    "title": "Nova plugin manager",
+    "version": "1.0",
+    "plugins": [
+        {
+            "name": "nova_json_schemas",
+            "version": "1.0",
+            "repository": "https://github.com/novaframework/nova_json_schemas"
+        }
+    ]
+}
