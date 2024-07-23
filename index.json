@@ -6,6 +6,7 @@
             "name": "nova_json_schemas",
             "version": "1.0",
             "description": "Handle JSON schemas with Nova. This plugin provides a simple way to handle JSON schemas in your Nova application.",
+            "documentation": "https://novaframework.com/docs/nova-json-schemas",
             "repository": "https://github.com/novaframework/nova_json_schemas"
         }
     ]
